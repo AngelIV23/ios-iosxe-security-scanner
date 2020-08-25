@@ -4,8 +4,8 @@ from collections import defaultdict
 import json
 #Testing
 
-CLIENT_ID = "c3vpmqbg44mc9snttdsezx7u"
-CLIENT_SECRET = "R7aFvx67KMQjWfyZamV5YCJH"
+CLIENT_ID = "x9snbk8bdkugjdt3wvyf4y9k"
+CLIENT_SECRET = "Pnu6aj5SGJq7dCN3SmPTk86D"
 TOKEN_URL = 'https://cloudsso.cisco.com/as/token.oauth2'
 AUTH_URL = 'https://cloudsso.cisco.com/as/authorization.oauth2'
 
